@@ -1,0 +1,1 @@
+// easier whay to solve this is to have a parent and have the parent use pipes to each of the children instead of connecting thepipes between the children directly
